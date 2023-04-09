@@ -14,23 +14,23 @@ License
 Contributing
 Contact
 
-#Installation
+# Installation
 To install the required dependencies for this project, run the following command:
 
 pip install -r requirements.txt
-#Usage
+# Usage
 
 To view the Jupyter notebook tutorial, open the file TrainingEvaluation.ipynb in your preferred notebook viewer.
 
-#License
+# License
 This project is licensed under the MIT License.
 
-#Contributing
+# Contributing
 If you want to contribute to this project, please follow these steps:
 
 Fork this repository
 Create a new branch for your feature or bug fix
 Commit and push your changes
 Create a pull request with a descriptive title and a clear explanation of your changes
-#Contact
+# Contact
 If you have any questions or feedback about this project, please feel free to contact me at <sroy22@ncsu.edu>. You can also follow me on <https://www.linkedin.com/in/somshubhra-roy-36774a143/>.
