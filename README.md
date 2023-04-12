@@ -1,5 +1,5 @@
 # Density-estimation-using-Affine-coupling-based-Normaling-Flows
-Demonstration of Normalising Flow for Density Estimation using RealNVP model
+Demonstration of Normalising Flow for Density Estimation using RealNVP model implemented from scratch
 
 This project implements a type of normalizing flow model for density estimation. Normalizing flows are a class of generative models that learn a bijective mapping between a simple latent distribution and a complex data distribution using invertible neural networks. Affine coupling is one of the building blocks of normalizing flows that performs an affine transformation on a subset of the input variables conditioned on the other subset.
 
