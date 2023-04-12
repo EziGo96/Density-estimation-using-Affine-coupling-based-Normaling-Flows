@@ -7,11 +7,16 @@ The project uses Tensorflow to implement the normalizing flow model and applies 
 
 The project is based on the paper “Density estimation using Real NVP” by Laurent Dinh et al. (https://arxiv.org/abs/1605.08803) and references other related works on normalizing flows.
 
-Table of Contents
+# Table of Contents
+
 Installation
+
 Usage
+
 License
+
 Contributing
+
 Contact
 
 # Installation
