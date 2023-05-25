@@ -9,15 +9,10 @@ The project is based on the paper “Density estimation using Real NVP” by Lau
 
 # Table of Contents
 
-Installation
-
-Usage
-
-License
-
-Contributing
-
-Contact
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 # Installation
 To install the required dependencies for this project, run the following command:
